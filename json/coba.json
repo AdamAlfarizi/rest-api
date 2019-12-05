@@ -1,0 +1,30 @@
+[
+{ 
+"nama": "Adam Alfarizi",
+"umur": 20,
+"nrp": "193040023",
+"lulus": true,
+"hobi": [
+	"coding",
+	"gaming"
+],
+"pembingbing":{
+	"pembingbing1":"Doddy Ferdiansyah",
+	"pembingbing2":"Erik Doang"
+}
+},
+{ 
+"nama": "Adam Alfarizi",
+"umur": 20,
+"nrp": "193040023",
+"lulus": true,
+"hobi": [
+	"coding",
+	"gaming"
+],
+"pembingbing":{
+	"pembingbing1":"Doddy Ferdiansyah",
+	"pembingbing2":"Erik Doang"
+}
+}
+]
